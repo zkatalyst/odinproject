@@ -1,0 +1,1 @@
+This is Hidayat's first Git project!
